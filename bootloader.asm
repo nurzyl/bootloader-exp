@@ -1,4 +1,4 @@
-; simple_bootloader.asm — A simple x86 bootloader that displays memory size and reboots.
+; bootloader.asm — A simple x86 bootloader that displays memory size and reboots.
 ; Copyright (C) 2025 Ian Guwalgiya 
 ;
 ; This program is free software: you can redistribute it and/or modify
